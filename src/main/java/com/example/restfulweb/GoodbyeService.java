@@ -7,6 +7,6 @@ public class GoodbyeService {
 
 		public String goodbye() {
 			
-			return "Goodbye thats all folks!";
+			return "Thats all folks!";
 		}
 }
